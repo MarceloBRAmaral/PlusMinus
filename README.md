@@ -15,7 +15,7 @@ there are elements, two positive, two negative and one zero. Their ratios would 
 0.400000
 0.200000
 
-Function Description
+### Function Description
 
 Complete the plusMinus function in the editor below. It should print out the ratio of positive, negative and zero items in the array, each on a separate line rounded to six decimals.
 
@@ -23,7 +23,7 @@ plusMinus has the following parameter(s):
 
     arr: an array of integers
 
-Input Format
+### Input Format
 
 The first line contains an integer,
 , denoting the size of the array.
@@ -31,10 +31,10 @@ The second line contains space-separated integers describing an array of numbers
 
 .
 
-Constraints
+### Constraints
 
 
-Output Format
+### Output Format
 
 You must print the following
 
@@ -44,18 +44,18 @@ lines:
     A decimal representing of the fraction of negative numbers in the array compared to its size.
     A decimal representing of the fraction of zeros in the array compared to its size.
 
-Sample Input
+### Sample Input
 
 6
 -4 3 -9 0 4 1         
 
-Sample Output
+### Sample Output
 
 0.500000
 0.333333
 0.166667
 
-Explanation
+### Explanation
 
 There are
 positive numbers, negative numbers, and zero in the array.
