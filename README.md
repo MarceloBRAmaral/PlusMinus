@@ -23,7 +23,7 @@ plusMinus has the following parameter(s):
 ### Input Format
 
 The first line contains an integer, **n**, denoting the size of the array.
-The second line contains space-separated integers describing an array of numbers
+The second line contains **n** space-separated integers describing an array of numbers
 
 .
 
