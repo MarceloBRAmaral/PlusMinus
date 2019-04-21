@@ -30,13 +30,12 @@ The second line contains **n** space-separated integers describing an array of n
 ### Constraints
 
 **0 < n <= 100
+
 **-100 <= arr[i] <= 100
 
 ### Output Format
 
-You must print the following
-
-lines:
+You must print the following **3** lines:
 
     A decimal representing of the fraction of positive numbers in the array compared to its size.
     A decimal representing of the fraction of negative numbers in the array compared to its size.
